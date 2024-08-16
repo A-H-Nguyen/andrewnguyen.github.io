@@ -1,9 +1,6 @@
 # andrewnguyen.github.io
-## About Me
-I'm currently a PhD Student in Electrical and Computer Engineering at the University of Texas at Austin.
-My main research interests are in the realm of computer architecture, high performance computing, and compilers.
-Mainly compilers, because they're my favorite.
+My personal website.
 
-## WIP
-I really don't want to learn CSS or html, but look at this website... 
+Hopefully I can make this look at least passable with mostly html.
+All of the website examples I found online use a whole bunch of technologies and frameworks that I'm too lazy to learn.
 
