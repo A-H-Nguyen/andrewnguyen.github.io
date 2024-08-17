@@ -1,16 +1,24 @@
-/* Title */
+/* Body Text */
 
-.title-block {
+.text-block-center {
     background-color: #ccc;
     border: 2px solid black;
-    font-size: x-large;
+    font-size: medium;
     text-align: center;
 }
 
-/* Body Text */
-
-.text-block {
+.text-block-left {
+    background-color: #ccc;
+    border: 2px solid black;
     font-size: medium;
+    text-align: left;
+}
+
+.text-block-right {
+    background-color: #ccc;
+    border: 2px solid black;
+    font-size: medium;
+    text-align: right;
 }
 
 /* Navigation Bar */
@@ -29,5 +37,16 @@
     border-bottom: solid transparent;
     transition: border-bottom 0.5s;
     border-bottom-width: 0.1em;
+}
+
+.nav-link-wrapper a {
+  color: #fff;
+  font-size: 1vw;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.nav-link-wrapper a:hover {
+  color: #f04040;
 }
 
