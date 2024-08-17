@@ -1,3 +1,10 @@
+head {
+    background-color: #ccc;
+    border: 2px solid black;
+    font-size: x-large;
+    text-align: center;
+}
+
 body {
     background-color: grey;
     font-family: monospace;
