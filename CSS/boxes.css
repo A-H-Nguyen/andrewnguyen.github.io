@@ -1,0 +1,33 @@
+/* Title */
+
+.title-block {
+    background-color: #ccc;
+    border: 2px solid black;
+    font-size: x-large;
+    text-align: center;
+}
+
+/* Body Text */
+
+.text-block {
+    font-size: medium;
+}
+
+/* Navigation Bar */
+
+.nav-wrapper {
+    background-color: #ccc;
+    border: 2px solid black;
+    display: flex;
+    font-size: x-large;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.nav-link-wrapper {
+    height: 100%;
+    border-bottom: solid transparent;
+    transition: border-bottom 0.5s;
+    border-bottom-width: 0.1em;
+}
+
