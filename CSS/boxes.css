@@ -1,4 +1,4 @@
-/* Body Text */
+/* Title block */
 
 .title-block {
     background-color: #414559;
@@ -7,9 +7,19 @@
     height: 100%;
     margin: auto;
     padding: 20px;
-    text-align: center;
+    /* text-align: center; */
     width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.title-block a {
+    flex-grow: 1;
+    text-align: center;
+}
+
+/* Body Text */
 
 .text-block {
     font-size: 0.75vw;
